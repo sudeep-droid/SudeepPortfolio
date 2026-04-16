@@ -23,7 +23,7 @@ export default function Hero() {
           </div>
 
           <h2 className="text-xl md:text-2xl font-light tracking-widest mb-4 text-muted-foreground uppercase">
-            Sudhanshu Pusp
+            Sudeep Mallik
           </h2>
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter mb-6 bg-clip-text text-transparent bg-gradient-to-b from-white to-white/50">
             Full Stack Developer
