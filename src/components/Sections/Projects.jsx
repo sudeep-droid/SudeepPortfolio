@@ -9,36 +9,36 @@ const projects = [
     description: "A high-performance text transcoding utility for seamless conversion between Unicode (Mangal) and Legacy (Kruti Dev) fonts.",
     longDescription: "Developed a real-time font conversion engine using Next.js to bridge the gap between Unicode and legacy Hindi typing formats. Engineered custom string replacement algorithms that process text with 100% accuracy and zero latency, capable of converting 5,000+ characters in under 100ms. This tool streamlines documentation workflows, reducing manual re-typing efforts by approximately 40%.",
     tags: ["Next.js", "React", "Regex", "Text Processing"],
-    link: "https://kruti-dev-converter.vercel.app/",
-    github: "https://github.com/Sudhanshupusp/KrutiDev-Converter",
+    link: "https://bharat-type-theta.vercel.app",
+    github: "https://github.com/sudeep-droid/BharatType",
     image: "mangalKruti.png"
   },
   {
-    title: "High-Performance Media CDN",
-    description: "A seamless integration of ImageKit SaaS for automated real-time image transformation and global content delivery.",
-    longDescription: "Integrated ImageKit's API into a scalable web application to automate media processing workflows. Implemented dynamic URL-based transformations and automatic format conversion (WebP/AVIF), which reduced the average asset size by 65% without quality loss. This optimization resulted in a 2x faster Largest Contentful Paint (LCP) score and significantly lowered bandwidth consumption.",
-    tags: ["Next.js", "ImageKit API", "CDN", "Web Performance"],
-    link: "#",
-    github: "https://github.com/Sudhanshupusp/ImageKit",
-    image: "imageKit.png"
+    title: "Huffman Coding Visualizer",
+    description: "An interactive tool to visualize Huffman encoding and understand lossless data compression through dynamic tree construction.",
+    longDescription: "Developed a web-based visualizer to demonstrate the working of the Huffman Coding algorithm, a fundamental technique in lossless data compression. The application allows users to input custom text and dynamically generates frequency maps, priority queues, and the corresponding Huffman tree in real-time. It visually represents the encoding process by assigning binary codes to characters based on tree traversal, helping users intuitively grasp concepts like entropy and optimal prefix codes. Designed with a focus on clarity and interactivity, making complex algorithmic behavior easy to understand.",
+    tags: ["JavaScript", "Data Structures", "Algorithms", "Visualization"],
+    link: "https://code-huffman.vercel.app/",
+    github: "https://github.com/sudeep-droid/CodeHuffman",
+    image: "huffman.png"
   },
   {
     title: "Secure Role-Based Auth System",
     description: "A scalable full-stack authorization architecture implementing hierarchical access control and JWT security protocols.",
     longDescription: "Architected a robust Role-Based Access Control (RBAC) system to manage permissions across 3 distinct user tiers (Admin, Editor, User). Implemented custom middleware with JSON Web Tokens (JWT) and Bcrypt hashing, which reduced unauthorized API access attempts by 99%. The optimized session management logic improved server response time for authenticated routes by 35%.",
     tags: ["Node.js", "Express.js", "MongoDB", "JWT", "Bcrypt"],
-    link: "#",
-    github: "https://github.com/Sudhanshupusp/Auth-Sys",
+    link: "https://authsys-pied.vercel.app/login",
+    github: "https://github.com/sudeep-droid/Authsys",
     image: "authSys.png"
   },
   {
-    title: "Hackathon Management Portal",
-    description: "A centralized event platform streamlining participant registration, automated email notifications, and real-time administrative data syncing.",
-    longDescription: "Architected a full-stack solution for the college hackathon to manage the complete participant lifecycle. Engineered a custom registration pipeline that triggers **automated confirmation emails** via Nodemailer immediately upon sign-up. Integrated the **Google Sheets API** as a lightweight database/CMS, allowing non-technical organizers to view and manage registrant data in real-time without database access. This automated workflow eliminated manual data entry, reducing administrative overhead by **90%** while serving as the primary information hub for the event roadmap.",
-    tags: ["Next.js", "Google Sheets API", "Nodemailer", "Serverless Functions"],
-    link: "#",
-    github: "#",
-    image: "UcetHack.png"
+    title: "Sudeep Mallik Portfolio",
+    description: "A modern, responsive personal portfolio showcasing projects, skills, and interactive UI with a focus on performance and design.",
+    longDescription: "Designed and developed a fully responsive personal portfolio to showcase projects, technical skills, and professional experience. Built with a clean and modular architecture, the portfolio features smooth animations, interactive UI components, and optimized asset loading for fast performance. Integrated dynamic project sections with GitHub linking and structured content presentation to enhance user engagement. Focused on modern UI/UX principles, accessibility, and scalability, making it a central hub for personal branding and professional visibility.",
+    tags: ["Next.js", "React", "Tailwind CSS", "Frontend Development"],
+    link: "https://sudeep-portfolio-puce.vercel.app",
+    github: "https://github.com/sudeep-droid/SudeepPortfolio",
+    image: "portfolio.png"
   },
 ]
 
