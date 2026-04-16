@@ -27,7 +27,7 @@ const projects = [
     description: "A scalable full-stack authorization architecture implementing hierarchical access control and JWT security protocols.",
     longDescription: "Architected a robust Role-Based Access Control (RBAC) system to manage permissions across 3 distinct user tiers (Admin, Editor, User). Implemented custom middleware with JSON Web Tokens (JWT) and Bcrypt hashing, which reduced unauthorized API access attempts by 99%. The optimized session management logic improved server response time for authenticated routes by 35%.",
     tags: ["Node.js", "Express.js", "MongoDB", "JWT", "Bcrypt"],
-    link: "https://authsys-pied.vercel.app/login",
+    link: "https://authsys-pied.vercel.app",
     github: "https://github.com/sudeep-droid/Authsys",
     image: "authSys.png"
   },
