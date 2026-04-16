@@ -48,14 +48,14 @@ export default function Contact() {
           
           <div className="space-y-6">
             <a 
-              href="mailto:pusps747@gmail.com"
+              href="mailto:sudeepmalliksudeepmallik.com"
               className="flex items-center gap-4 text-muted-foreground hover:text-white transition-colors cursor-pointer"
             >
               <Mail className="w-6 h-6" />
-              <span>pusps747@gmail.com</span>
+              <span>sudeepmalliksudeepmallik@gmail.com</span>
             </a>
             <a 
-              href="https://www.linkedin.com/in/sudhanshu-pusp"
+              href="https://www.linkedin.com/in/sudeep-mallik"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-4 text-muted-foreground hover:text-white transition-colors cursor-pointer"
