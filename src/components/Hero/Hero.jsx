@@ -16,7 +16,7 @@ export default function Hero() {
           <div className="mb-8 relative inline-block">
             <div className="absolute inset-0 bg-white/20 blur-2xl rounded-full" />
             <img
-              src="/profile2.jpg"
+              src="/profile2.jpeg"
               alt="Profile"
               className="relative w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-2 border-white/10 mx-auto shadow-2xl"
             />
